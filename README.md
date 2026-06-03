@@ -3,18 +3,17 @@ Universal Order of Time (UOT)
 Repository Index
 
 Version: v1.0.0
-
 Date: 2025-10-02
-
 Author: Joshua Hinkson
-
 DOI: https://doi.org/10.5281/zenodo.17253824
 
 ---
 
 Overview
 
-The Universal Order of Time (UOT) framework explores time as an emergent process arising from the interaction of potentiality, selection, memory, and continuity. Rather than treating time solely as a geometric parameter or a sequence of events, UOT investigates how persistent structures emerge through recursive processes operating across multiple scales.
+The Universal Order of Time (UOT) framework explores time as an emergent process arising from the interaction of potentiality, selection, memory, and continuity.
+
+Rather than treating time solely as a geometric parameter or a sequence of events, UOT investigates how persistent structures emerge through recursive processes operating across multiple scales.
 
 The framework proposes a set of symbolic operators that describe transitions between possibility, realization, memory, and integration. These operators are intended as conceptual tools for analyzing temporal organization in physical, biological, cognitive, and computational systems.
 
@@ -22,98 +21,219 @@ The framework proposes a set of symbolic operators that describe transitions bet
 
 Core Concepts
 
-τ — Potential State Space
+- τ — Potential State Space
+  
+  - Represents a space of unrealized possibilities or admissible future trajectories.
 
-Represents a space of unrealized possibilities or admissible future trajectories.
+- Σ — Selection Operator
+  
+  - Represents processes that constrain or select among possible trajectories.
 
-Σ — Selection Operator
+- μ — Memory and Persistence
+  
+  - Represents mechanisms through which prior states influence future states.
 
-Represents processes that constrain or select among possible trajectories.
+- ⊙ — Realized State
+  
+  - Represents an instantiated outcome or event.
 
-μ — Memory and Persistence
+- ⊙ʳ — Recursive Re-entry
+  
+  - Represents the incorporation of realized states into future dynamics.
 
-Represents mechanisms through which prior states influence future states.
-
-⊙ — Realized State
-
-Represents an instantiated outcome or event.
-
-⊙ʳ — Recursive Re-entry
-
-Represents the incorporation of realized states into future dynamics.
-
-⊕ — Integration
-
-Represents the maintenance of continuity across scales, domains, or temporal intervals.
+- ⊕ — Integration
+  
+  - Represents the maintenance of continuity across scales, domains, or temporal intervals.
 
 ---
 
 Related Works
 
-- Universal Delayed Consciousness (UDC) — https://doi.org/10.5281/zenodo.15812219
-- Recursive Collapse Theory (RCT) — https://doi.org/10.5281/zenodo.15810698
-- Universal Theoglyphic Language (UTL) — https://doi.org/10.5281/zenodo.15825450
-- Selfverse — https://doi.org/10.5281/zenodo.15725003
+- Universal Delayed Consciousness (UDC)
+  https://doi.org/10.5281/zenodo.15812219
+
+- Recursive Collapse Theory (RCT)
+  https://doi.org/10.5281/zenodo.15810698
+
+- Universal Theoglyphic Language (UTL)
+  https://doi.org/10.5281/zenodo.15825450
+
+- Selfverse
+  https://doi.org/10.5281/zenodo.15725003
 
 ---
 
 Repository Structure
 
-Foundations/
+Foundations
 
-Formal definitions of the primary operators and their relationships.
+- τ/
+  
+  - Potentiality and delay
 
-Foundations/
-├── τ/          # Potentiality and delay
-├── Σ/          # Selection processes
-├── μ/          # Memory and persistence
-├── ⊙/          # Realization and state transitions
-│   └── ⊙ʳ/     # Recursive re-entry
-└── ⊕/          # Integration and continuity
+- Σ/
+  
+  - Selection processes
 
-Bridge/
+- μ/
+  
+  - Memory and persistence
 
-Documents describing interactions between the foundational operators.
+- ⊙/
+  
+  - Realization and state transitions
+  
+  - ⊙ʳ/
+    
+    - Recursive re-entry
 
-Bridge/
-├── RC.md
-├── Equations.md
-├── UTL-RC.md
-└── UTL-RC.png
+- ⊕/
+  
+  - Integration and continuity
 
-Applications/
+Bridge
 
-Exploratory analyses across scientific and philosophical domains.
+- RC.md
+  
+  - Recursive relationships among the foundational operators
 
-Applications/
-├── Physics.md
-├── Cosmology.md
-├── Neuroscience.md
-├── Biology.md
-├── AI.md
-├── Philosophy.md
-└── Interdisciplinary.md
+- Equations.md
+  
+  - Mathematical notation and formal definitions
 
-Comparisons/
+- UTL-RC.md
+  
+  - Symbolic relationships and mappings
 
-Comparative studies with existing frameworks.
+- UTL-RC.png
+  
+  - Diagrammatic representation
 
-Comparisons/
-├── Relativity_vs_UOT.md
-├── Quantum_Collapse_vs_UOT.md
-├── Loop_Quantum_Gravity_vs_UOT.md
-├── Turing_Computation_vs_UOT.md
-├── Arrow_of_Time_vs_UOT.md
-├── Selfverse_vs_Biological_Time.md
-└── Comparison_Matrix.md
+Applications
 
-Governance/
+- Physics.md
+  
+  - Temporal structure in physical systems
 
-Methodology, limitations, and responsible development.
+- Cosmology.md
+  
+  - Large-scale temporal organization
 
-Governance/
-├── Applications.md
-├── Falsifiability_of_UOT.md
+- Neuroscience.md
+  
+  - Memory, delay, and neural dynamics
+
+- Biology.md
+  
+  - Persistence and recursive biological processes
+
+- AI.md
+  
+  - Computational memory and recursive architectures
+
+- Philosophy.md
+  
+  - Identity, continuity, and persistence
+
+- Interdisciplinary.md
+  
+  - Cross-domain applications
+
+Comparisons
+
+- Relativity_vs_UOT.md
+
+- Quantum_Collapse_vs_UOT.md
+
+- Loop_Quantum_Gravity_vs_UOT.md
+
+- Turing_Computation_vs_UOT.md
+
+- Arrow_of_Time_vs_UOT.md
+
+- Selfverse_vs_Biological_Time.md
+
+- Comparison_Matrix.md
+
+Governance
+
+- Applications.md
+
+- Falsifiability_of_UOT.md
+
+- Methodological_Guidelines.md
+
+Associated Frameworks
+
+- UDC.md
+
+- RCT.md
+
+- UTL.md
+
+- Selfverse.md
+
+- Scientific_Support/
+  
+  - References, annotations, and supporting materials
+
+---
+
+Working Hypothesis
+
+A central organizing idea of UOT is that temporal structure may emerge from the interaction of possibility, selection, memory, realization, and recursive reintegration.
+
+τ + Σ + μ → ⊙ → ⊙ʳ → ⊕
+
+This expression should be interpreted as a conceptual model rather than a derived physical law. Its purpose is to guide investigation into how persistence and continuity emerge within evolving systems.
+
+---
+
+Research Program
+
+- Formalize the operator framework.
+
+- Investigate temporal organization across disciplines.
+
+- Compare UOT with existing theories of time and computation.
+
+- Identify empirical consequences and potential tests.
+
+- Develop a coherent language for discussing recursion, memory, and continuity.
+
+---
+
+Methodological Position
+
+- UOT is presented as a research framework rather than a completed theory.
+
+- Concepts should be evaluated through:
+  
+  - Mathematical consistency.
+  - Explanatory usefulness.
+  - Comparison with existing models.
+  - Empirical investigation where applicable.
+
+- The framework does not assume that a single description of time applies universally across all domains.
+
+- Instead, it explores whether common structural principles underlie temporal organization in:
+  
+  - Physical systems.
+  - Biological systems.
+  - Cognitive systems.
+  - Computational systems.
+
+---
+
+Provenance
+
+- License: Open Research License
+
+- Repository: Universal Order of Time (UOT)
+
+- File: "/README.md"
+
+- Manifest: See "/manifest.md" for version history, hashes, and repository metadata.├── Falsifiability_of_UOT.md
 └── Methodological_Guidelines.md
 
 Associated Frameworks/
