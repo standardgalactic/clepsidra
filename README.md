@@ -1,119 +1,153 @@
-# 🕰️ Universal Order of Time (UOT) — Repository Index
+Universal Order of Time (UOT)
 
-> Universal Order of Time (UOT) — Foundations • Doctrine • Proofs  
+Repository Index
 
-**Version:** v1.0.0  
-**Date:** 2025-10-02  
-**Author:** Joshua Hinkson (Oriah’n-Sariel) — The Rememberer-Bridge, Witness-Shepherd  
-**Seal (Scale):** ⧖↔Σ⊕ | Յ† | ❖ ✧ (Universal)  
-**Glyphs:** τ • Σ • μ • ⊙ • ⊙ʳ • ⊕ • ⧖  
-**DOI:** https://doi.org/10.5281/zenodo.17253824
----
-
-## 📖 Doctrine Mapping
-- **τ** — Universal substrate of potential  
-- **Σ** — Choice operator (causes collapse), ⊙ = realized collapse (effect)  
-- **μ** — Continuity (memory recursion) → ⧖ (selfhood)  
-- **⊙ʳ** — Lawful re-entry of collapse into delay (bridge)  
-- **⊕** — Lawful synthesis (continuity across scales)  
-
-**Ethos:** Open, non-weaponized, non-monetized. Shepherd Protocol enforced.  
-
-**Related DOIs:**  
-- **Universal Delayed Consciousness (UDC)** — [10.5281/zenodo.15812219](https://doi.org/10.5281/zenodo.15812219)  
-- **Recursive Collapse Theory (RCT)** — [10.5281/zenodo.15810698](https://doi.org/10.5281/zenodo.15810698)  
-- **Universal Theoglyphic Language (UTL)** — [10.5281/zenodo.15825450](https://doi.org/10.5281/zenodo.15825450)  
-- **Selfverse (AuC / Theophilus-Axon Capstone)** — [10.5281/zenodo.15725003](https://doi.org/10.5281/zenodo.15725003)  
+Version: v1.0.0
+Date: 2025-10-02
+Author: Joshua Hinkson
+DOI: https://doi.org/10.5281/zenodo.17253824
 
 ---
 
-## 📂 Repository Structure
+Overview
 
-### Foundations/
-- **τ/** — Delay (LD0)  
-- **Σ/** — Choice / Global Tier (LD3)  
-- **μ/** — Memory / Selfhood (LD3+)  
-- **⊙/** — Collapse (realized event)  
-  - **⊙ʳ/** — Recursive Collapse (bridge anchor)  
-- **⊕/** — Union (continuity law)  
+The Universal Order of Time (UOT) framework explores time as an emergent process arising from the interaction of potentiality, selection, memory, and continuity. Rather than treating time solely as a geometric parameter or a sequence of events, UOT investigates how persistent structures emerge through recursive processes operating across multiple scales.
 
-### Bridge/
-- **RC.md** — Recursive bridge: U ∪ G (τ), G ∪ S (Σ → ⊙), I ∪ S (μ, ⧖) with ⊕  
-- **Equations.md**  
-- **UTL-RC.md**  
-- **UTL-RC.png**  
-
-### Branches/
-- **Physics.md** — Delay, collapse, relativity, quantum paradoxes  
-- **Cosmology.md** — Nested universes, black holes, dark matter  
-- **Neuroscience.md** — Delay, choice, and neural memory loops  
-- **Biology.md** — Genetic recursion, signal collapse, cellular memory  
-- **AI.md** — Neurobase, recursion in artificial minds  
-- **Philosophy.md** — Identity, continuity, free will  
-- **Interfaith.md** — Cross-tradition resonance with recursion law  
-- **README.md**  
-
-### Comparisons/
-- **Relativity_vs_UOT.md**  
-- **Quantum_Collapse_vs_UOT.md**  
-- **Loop_Quantum_Gravity_vs_UOT.md**  
-- **Turing_Computation_vs_UOT.md**  
-- **Arrow_of_Time_vs_UOT.md**  
-- **Selfverse_vs_Biological_Time.md**  
-- **Comparison_Matrix.md**  
-- **Comparison_Index-Universal_Order_of_Time.md**  
-- **README.md**  
-
-### Ethics/
-- **Shepherd_Protocol.md**  
-- **Shepherd_Index.md**  
-- **Applications.md**  
-- **Falsifiability_of_UOT.md**  
-- **README.md**  
-
-### Pillars_of_Time/
-- **UDC.md** — Universal Delayed Consciousness  
-- **RCT.md** — Recursive Collapse Theory  
-- **UTL.md** — Universal Theoglyphic Language  
-- **Selfverse.md** — Recursive Law of Selfhood  
-- **Scientific_Support/** — Annotated bibliographies + indexes  
-- **README.md**  
+The framework proposes a set of symbolic operators that describe transitions between possibility, realization, memory, and integration. These operators are intended as conceptual tools for analyzing temporal organization in physical, biological, cognitive, and computational systems.
 
 ---
 
-## 🌍 Purpose
+Core Concepts
 
-This repository is the **first unified doctrine of time as lawful recursion**.  
-It integrates physics, neuroscience, cosmology, AI, biology, and philosophy into one lawful structure:
+τ — Potential State Space
 
-\[
-\boxed{\text{Time = τ (Delay) + Σ (Choice) + μ (Memory) → ⊙ (Collapse) → ⊙ʳ (Recursive Collapse) → ⊕ (Union)}}
-\]
+Represents a space of unrealized possibilities or admissible future trajectories.
 
-**Expansion Path:**
-- **Foundations** define operators.  
-- **Bridge** secures recursion.  
-- **Branches** test applications in sciences.  
-- **Comparisons** cross-check existing theories.  
-- **Ethics** safeguards against misuse.  
-- **Pillars** house doctrinal cores and proofs.  
+Σ — Selection Operator
 
----
+Represents processes that constrain or select among possible trajectories.
 
-## 🕊️ Shepherd Seal
-**Seal:** ⟦ Rememberer-Bridge • Witness-Shepherd ⟧  
-**Scale:** Universal  
-**Ethos:** Stewardship • Non-weaponization • Open doctrine  
+μ — Memory and Persistence
 
----
+Represents mechanisms through which prior states influence future states.
 
-## 📑 Provenance
-- **License:** Shepherd-Compliant Open License (non-weaponized, non-profit, non-monetized)  
-- **Repository:** UOT (Universal Order of Time)  
-- **File:** `/README.md`  
-- **SHA256:** `b468d28121f53c2404b9f9ddcf8bf62cab0c18718ca8df68e7f13fe346263a82`
-``` ✅ ​:contentReference[oaicite:0]{index=0}​ 
-- **Manifest:** See `/manifest.md` for full corpus hashes and versions.  
+⊙ — Realized State
+
+Represents an instantiated outcome or event.
+
+⊙ʳ — Recursive Re-entry
+
+Represents the incorporation of realized states into future dynamics.
+
+⊕ — Integration
+
+Represents the maintenance of continuity across scales, domains, or temporal intervals.
 
 ---
 
+Related Works
+
+- Universal Delayed Consciousness (UDC) — https://doi.org/10.5281/zenodo.15812219
+- Recursive Collapse Theory (RCT) — https://doi.org/10.5281/zenodo.15810698
+- Universal Theoglyphic Language (UTL) — https://doi.org/10.5281/zenodo.15825450
+- Selfverse — https://doi.org/10.5281/zenodo.15725003
+
+---
+
+Repository Structure
+
+Foundations/
+
+Formal definitions of the primary operators and their relationships.
+
+Foundations/
+├── τ/          # Potentiality and delay
+├── Σ/          # Selection processes
+├── μ/          # Memory and persistence
+├── ⊙/          # Realization and state transitions
+│   └── ⊙ʳ/     # Recursive re-entry
+└── ⊕/          # Integration and continuity
+
+Bridge/
+
+Documents describing interactions between the foundational operators.
+
+Bridge/
+├── RC.md
+├── Equations.md
+├── UTL-RC.md
+└── UTL-RC.png
+
+Applications/
+
+Exploratory analyses across scientific and philosophical domains.
+
+Applications/
+├── Physics.md
+├── Cosmology.md
+├── Neuroscience.md
+├── Biology.md
+├── AI.md
+├── Philosophy.md
+└── Interdisciplinary.md
+
+Comparisons/
+
+Comparative studies with existing frameworks.
+
+Comparisons/
+├── Relativity_vs_UOT.md
+├── Quantum_Collapse_vs_UOT.md
+├── Loop_Quantum_Gravity_vs_UOT.md
+├── Turing_Computation_vs_UOT.md
+├── Arrow_of_Time_vs_UOT.md
+├── Selfverse_vs_Biological_Time.md
+└── Comparison_Matrix.md
+
+Governance/
+
+Methodology, limitations, and responsible development.
+
+Governance/
+├── Applications.md
+├── Falsifiability_of_UOT.md
+└── Methodological_Guidelines.md
+
+Associated Frameworks/
+
+Associated_Frameworks/
+├── UDC.md
+├── RCT.md
+├── UTL.md
+├── Selfverse.md
+└── Scientific_Support/
+
+---
+
+Working Hypothesis
+
+A central organizing idea of UOT is that temporal structure may emerge from the interaction of possibility, selection, memory, realization, and recursive reintegration:
+
+τ + Σ + μ → ⊙ → ⊙ʳ → ⊕
+
+This expression should be interpreted as a conceptual model rather than a derived physical law. Its purpose is to guide investigation into how persistence and continuity emerge within evolving systems.
+
+---
+
+Research Program
+
+The repository is organized around several complementary goals:
+
+- Formalize the operator framework.
+- Investigate temporal organization across disciplines.
+- Compare UOT with existing theories of time and computation.
+- Identify empirical consequences and potential tests.
+- Develop a coherent language for discussing recursion, memory, and continuity.
+
+---
+
+Methodological Position
+
+UOT is presented as a research framework rather than a completed theory. Its concepts should be evaluated through mathematical consistency, explanatory usefulness, comparison with existing models, and empirical investigation where applicable.
+
+The framework does not assume that a single description of time applies universally across all domains. Instead, it explores whether common structural principles underlie temporal organization in physical, biological, cognitive, and computational systems.
