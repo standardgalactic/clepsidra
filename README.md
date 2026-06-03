@@ -3,8 +3,11 @@ Universal Order of Time (UOT)
 Repository Index
 
 Version: v1.0.0
+
 Date: 2025-10-02
+
 Author: Joshua Hinkson
+
 DOI: https://doi.org/10.5281/zenodo.17253824
 
 ---
